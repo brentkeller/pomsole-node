@@ -1,0 +1,20 @@
+{
+  "name": "pomsole",
+  "version": "1.0.0",
+  "description": "Pomodoro timer CLI",
+  "bin": {
+    "pomsole": "./bin/pomsole.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brent Keller",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "inquirer": "^6.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.8.0"
+  }
+}
