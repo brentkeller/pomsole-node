@@ -11,10 +11,10 @@
   "author": "Brent Keller",
   "license": "MIT",
   "dependencies": {
-    "commander": "^2.19.0",
-    "inquirer": "^6.2.0"
+    "commander": "^2.20.0",
+    "inquirer": "^6.3.1"
   },
   "devDependencies": {
-    "eslint": "^5.8.0"
+    "eslint": "^5.16.0"
   }
 }
